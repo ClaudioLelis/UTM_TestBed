@@ -1,6 +1,6 @@
 #include "GCS_UTM.h"
 
-#define GRIDVIEW 
+//#define GRIDVIEW 
 
 #ifdef GRIDVIEW
 #include "GridView.h"
